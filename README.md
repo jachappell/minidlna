@@ -5,4 +5,4 @@ track order.  This version of minidlna forces album tracks to be displayed
 in album track order unless the client specifically requests the 
 tracks to be sorted in aphabetical order.
 
-See: http://www.storage-b.com/linux/290
+See: https://www.storage-b.com/linux/290
