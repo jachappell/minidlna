@@ -672,7 +672,8 @@ parse_sort_criteria(char *sortCriteria, int *error)
 	if( !title_sorted )
   {
     /* use disc/track as tie breaker befor TITLE - this allows tracks
-       to be dislayed in track order for clients unable to request it */
+       to be dislayed in track order for clients unable to request it
+       (see https://www.storage-b.com/linux/290) */
     strcatf(&str, ", d.DISC, d.TRACK");
 		strcatf(&str, ", TITLE ASC");
   }

@@ -1,4 +1,4 @@
-This is a fork of minidlna 1.1.4 (https://sourceforge.net/projects/minidlna/)
+This is a fork of minidlna 1.2.1 (https://sourceforge.net/projects/minidlna/)
 
 Some DLNA clients display album tracks in alphabetical order instead of album
 track order.  This version of minidlna forces album tracks to be displayed
