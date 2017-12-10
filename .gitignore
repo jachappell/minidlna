@@ -19,6 +19,7 @@ install-sh
 m4/
 missing
 mkinstalldirs
+minidlnad
 po/Makefile.in.in
 po/Makevars.template
 po/Rules-quot
